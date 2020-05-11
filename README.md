@@ -23,7 +23,12 @@ Complete the following steps.
 
 ### June Stats
 
+<img width="375" alt="Dec_Stats" src="https://user-images.githubusercontent.com/62089134/81523279-3c5a7400-9302-11ea-848f-7ee24fdf039a.png">
+
 ### December Stats
+
+<img width="373" alt="June_Stats" src="https://user-images.githubusercontent.com/62089134/81523306-5005da80-9302-11ea-9ae7-4fbd6d2d80a6.png">
+
 ### Analysis
 
 In the month of June the count, mean, standard deviation, minimum temp, and maximum temp are 13653, 71.04, 3.74, 56, and 83 respectively. Now, in the month of December the count, mean, standard deviation, minimum temp, and maximum temp are 1700, 74.94, 3.26, 64, and 85 respectively. 
