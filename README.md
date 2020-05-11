@@ -21,6 +21,9 @@ Complete the following steps.
 2. Identify key statistical data in December across all stations and years using the describe() function.
 3. Share your findings in the Jupyter Notebook with a few sentences describing the key differences in weather between June and December and 2-3 recommendations for further analysis.
 
+### June Stats
+
+### December Stats
 ### Analysis
 
 In the month of June the count, mean, standard deviation, minimum temp, and maximum temp are 13653, 71.04, 3.74, 56, and 83 respectively. Now, in the month of December the count, mean, standard deviation, minimum temp, and maximum temp are 1700, 74.94, 3.26, 64, and 85 respectively. 
